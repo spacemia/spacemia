@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Vencord**
 
-- 👀Want to test my stuff? [DM me on discord](spacemiaa)
+- 👀Want to test my stuff? [DM me on discord]((https://discord.gg/qYzpW54FpH))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
