@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm spacemia</h1>
+<h1 align="center">👋 spacemia</h1>
 <h3 align="center">A lua developer with 1+ year of experience</h3>
 
-- 🔭 I’m currently working on **Vencord**
-
-- 👀Want to test my stuff? [DM me on discord](https://discord.gg/qYzpW54FpH)
 
 <h3 align="left"></h3>
 <p align="left">
