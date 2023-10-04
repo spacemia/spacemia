@@ -2,7 +2,7 @@
 <h3 align="center">A lua developer with 2+ year of experience</h3>
 
 <h3 align="center">USERBADGE Owner</h3>
-- 👀Want to test my stuff? [DM me on discord](spacemiaa)
+<h3 align="center">https://discord.gg/Zr2dUfXw6Y</h3>
 
 <h3 align="left"></h3>
 <p align="left">
